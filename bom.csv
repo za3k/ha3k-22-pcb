@@ -1,0 +1,9 @@
+Part Number,Part Name,Description,Quantity,Unit of Measure,Procurement Type,References
+1.00,CF14JT100R,"100 ohm resistor, through-hole",1.00,each,Off the shelf,"R2, R3"
+2.00,CF14JT1K00 ,"1k ohm resistor, through-hole",1.00,each,Off the shelf,R1
+3.00,CF14JT10K0,"10k ohm resistor, through-hole",1.00,each,Off the shelf,R4
+4.00,HEAD2,"2-pin header socket, 2.54mm spacing",1.00,each,Off the shelf,"SPEAK, PROBE"
+5.00,2N3906,"PNP Transistor, through-hole",1.00,each,Off the shelf,Q1
+6.00,2N3904,"NPN Transistor, through-hole",1.00,each,Off the shelf,Q2
+7.00,296-NE555P-ND,"NE555 timer, 2.54mm DIP",1.00,each,Off the shelf,555
+8.00,C100nF,"100nF capacitor, ceramic disc, through-hole",1.00,each,Off the shelf,C1
